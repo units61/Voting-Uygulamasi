@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\bin\Debug\net6.0\Voiting-App.exe
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\bin\Debug\net6.0\Voiting-App.deps.json
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\bin\Debug\net6.0\Voiting-App.runtimeconfig.json
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\bin\Debug\net6.0\Voiting-App.dll
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\bin\Debug\net6.0\Voiting-App.pdb
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\Voiting-App.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\Voiting-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\Voiting-App.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\Voiting-App.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\Voiting-App.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\Voiting-App.dll
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\refint\Voiting-App.dll
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\Voiting-App.pdb
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\Voiting-App.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Pratikler\Voiting-App\obj\Debug\net6.0\ref\Voiting-App.dll
